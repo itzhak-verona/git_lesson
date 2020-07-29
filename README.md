@@ -1,4 +1,7 @@
 # 2020-07-29-git-iv
+
+## The basics
+
 - 'git init': create a reposotory in your current folder
 - git status : tell you about everything you need to know about the current state
 
