@@ -8,3 +8,5 @@
 - git add <path> : adds the ,path> to the staging area
 - git commit : will open up an editor to write a commint message
 	- git commit -m "your message" : write <message> to commit in 1 step
+
+- git 
